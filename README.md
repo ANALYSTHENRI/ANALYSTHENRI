@@ -3,7 +3,7 @@
 
 🌱 Atualmente estou aprendendo **SQL e me aperfeiçoando em Python** 
 
-👨‍💻 Alguns dos meus projetos em BI [https://sites.google.com/view/portfolioanalista-henrique/in%C3%ADcio](https://sites.google.com/ view/portfolioanalista-henrique/in%C3%ADcio) -
+👨‍💻 Alguns dos meus projetos em BI [https://sites.google.com/view/portfolioanalista-henrique/in%C3%ADcio]
 
 💬 Me pergunte sobre **SQL,PYTHON, POWER BI, EXCEL/VBA,INGLÊS** 
 
